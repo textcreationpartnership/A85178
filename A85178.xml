@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fearefull apparitions or The strangest visions that ever hath been heard of. It is a spirit that constantly every night haunts one Mr. Youngs yard in Lumbard-street, neere to the Golden Crosse, which hath played such prancks, and appeared in such severall and horrid shapes, that many divines and other learned men, who have come armed with a full resolution and with an intent to have spoken unto it or (at least) to have look't upon it, in the very attempt thereof have fallen into a kind of a distracted extasie, and were neither able to speak or stand, to the great wonder and terrour of all that were eye witnesses thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85178</idno>
+            <idno type="STC">Wing F576</idno>
+            <idno type="STC">Thomason E385_7</idno>
+            <idno type="STC">ESTC R201459</idno>
+            <idno type="EEBO-CITATION">99861963</idno>
+            <idno type="PROQUEST">99861963</idno>
+            <idno type="VID">160205</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160205)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E385[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fearefull apparitions or The strangest visions that ever hath been heard of. It is a spirit that constantly every night haunts one Mr. Youngs yard in Lumbard-street, neere to the Golden Crosse, which hath played such prancks, and appeared in such severall and horrid shapes, that many divines and other learned men, who have come armed with a full resolution and with an intent to have spoken unto it or (at least) to have look't upon it, in the very attempt thereof have fallen into a kind of a distracted extasie, and were neither able to speak or stand, to the great wonder and terrour of all that were eye witnesses thereof.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Hammond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apparitions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160205:1"/>
+            <p>FEAREFULL APPARITIONS OR THE <hi>STRANGEST</hi> VISIONS <hi>that ever hath been heard of.</hi>
+            </p>
+            <p>IT IS A Spirit that conſtantly every night haunts one Mr. <hi>Youngs</hi> yard in <hi>Lumbard-ſtreet,</hi> neere to the Golden Croſſe, which hath played ſuch prancks, and appeared in ſuch ſeverall and horrid ſhapes, that many Divines and other Learned men, who have come armed with a full reſolution and with an intent to have ſpo<g ref="char:EOLhyphen"/>ken unto it or (at leaſt) to have look't upon it, in the very attempt thereof have fallen into a kind of a diſtracted extaſie, and were neither able to ſpeak or ſtand, to the great wonder and terrour of all that were eye witneſſes therof.</p>
+            <p>
+               <add>Aprill 27</add> 
+               <hi>LONDON</hi> Printed for John Hammond, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160205:2"/>
+            <pb n="1" facs="tcp:160205:2"/>
+            <head>
+               <hi>Fearefull Apparitions:</hi> OR, The ſtrangeſt VISIONS that ever hath been heard of.</head>
+            <p>
+               <seg rend="decorInit">O</seg>F all the Monſters and ſtrange ſtories that this quick-ſighted Age e<g ref="char:EOLhyphen"/>ver diſcovered, here is one (and a true one) by them cannot be pa<g ref="char:EOLhyphen"/>rallelled, it is no Feigned ſtory, no Foraigne News, as from <hi>France,</hi> from <hi>Ireland</hi> nor from the North, you need travell no farther then the upper end of Lumber ſtreet in one M. <hi>Youngs</hi> yard there hath been ſeen ſtrange ap<g ref="char:EOLhyphen"/>paritions for the ſpace of about a
+<pb n="2" facs="tcp:160205:3"/>moneth laſt paſt, every night, about two of the clock conſtantly there is a great clatterng of Iron chaines and bolts, then preſently is heard a great ſcreeking and yelling &amp; howling like a dogge, and other whiles whiſling and playing on Muſick, then preſent<g ref="char:EOLhyphen"/>ly there appeares a great tall blacke man (or rather Devill) at leaſt ſix yards in height, with long blacke ſhaged haire, his eyes as bigge as two ordinary pewter diſhes ſlaming like fire, and out of his mouth there ſeem<g ref="char:EOLhyphen"/>eth to fly fire which flaſhes into the windows of the houſe like lightening, he continues walking in this manner about the Yard and looking in at the windows for about the ſpace of three houres every night.</p>
+            <p>
+               <hi>There hath beene very many Gentle<g ref="char:EOLhyphen"/>men
+<pb n="3" facs="tcp:160205:3"/>of good quality, and many famous and eminent Divines to ſee this ſtrange Apparition: Amongſt the reſt there was one Divine lately ſpoake to it, the Spirit anſwered againe, but with ſuch a horrid and diſmall noiſe that the Divine was not able to underſtand what the Apparition ſaid unto him; in anſwer to the queſtion which he asked, the ſtanders by and thoſe who were preſent with this Divine were likewiſe much amazed, inſomuch that they knew not where they were, their haire ſtanding upright on their heads, which made them (and not without good cauſe) to wiſh themſelves further of.</hi>
+            </p>
+            <p>
+               <hi>For by their Relation ſo hideous a</hi> Monſter <hi>hath not any eyes beheld; For what cauſe this</hi> Spirit <hi>ſhould ſo conſtant<g ref="char:EOLunhyphen"/>ly frequent this place, it cannot yet bee conjectured, but it is thought that ere long
+<pb n="4" facs="tcp:160205:4"/>the cauſe will be manifest, the Owner of the Yard where this Spirit walketh, is a very eminent man, and an</hi> Elder <hi>in the Pariſh where he liveth: This Gentle<g ref="char:EOLhyphen"/>man (Mr.</hi> Young <hi>I meane) hath a Son who tooke to himſelfe the courage to open a Caſement which looked into the Yard where the Spirit walked, with an intent to have ſpoken to it, he had no ſooner op<g ref="char:EOLhyphen"/>ened the Caſement but (although it was a Caſement of an upper roome two ſtories high) it was againe inſtantly ſhut too by this hideous</hi> Monſter <hi>in a moſt terrible and fearfull manner, after theſe ſtrange Apparitions, the Spirit uſually vaniſhes away, (to the thinking of the beholders) into the ground, then immediatly enſueth a noiſe like to claps of thunder and flaſh<g ref="char:EOLhyphen"/>es of fire like lightning ſeemes to aſcend out of the Earth, and after that a ſtink<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:160205:4"/>miſt, and a noyſome ſulferous ſmoake.</hi>
+            </p>
+         </div>
+         <div type="attestation">
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>If you doubt of the verity of this Re<g ref="char:EOLhyphen"/>lation, you may eaſily be ſatisfied of the truth, the neighbours there-abouts can and will tell you more then is here ſet forth, for they are every night witneſſes thereof, to their great feare, trouble, and griefe.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
